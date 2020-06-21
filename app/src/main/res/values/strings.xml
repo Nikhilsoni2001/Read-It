@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Read It</string>
+    <string name="defaultMessage">Sorry, No News found</string>
+    <string name="read_some_latest_news">Latest news</string>
+</resources>
